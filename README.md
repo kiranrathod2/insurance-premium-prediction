@@ -1,6 +1,3 @@
-# insurance-premium-prediction
-Flask web app for predicting insurance premiums using Machine Learning
-
 # 🚀 Insurance Premium Prediction Web App
 
 This repository contains a **Flask-based web application** that predicts **insurance premiums** using a **Decision Tree Machine Learning model**.  
