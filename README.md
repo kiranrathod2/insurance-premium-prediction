@@ -10,21 +10,21 @@ The app processes these inputs, scales them, and predicts the premium amount.
 
 The goal of this project is to build a predictive model that estimates the insurance premium a person has to pay based on several features such as:
 
-# Age
+ Age
 
-# Gender
+ Gender
 
-# BMI (Body Mass Index)
+ BMI (Body Mass Index)
 
-# Smoking Status
+ Smoking Status
 
-# Number of Dependents
+ Number of Dependents
 
-# Region
+ Region
 
-# Marital Status
+ Marital Status
 
-# Income
+ Income
 
 By analyzing these features, the model learns hidden patterns and provides an estimated premium value.
 
