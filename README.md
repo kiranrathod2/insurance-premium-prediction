@@ -23,21 +23,24 @@ The app processes these inputs, scales them, and predicts the premium amount.
 
 ---
 
-📂 Project Structure
+#📂 Project Structure
 
 ├── app.py                  
 ├── dt_model.pkl            
 ├── scaler.pkl             
 ├── encoders.pkl            
 ├── templates/
-│   └── index.html          
+│└── index.html          
 ├── static/                 
 ├── requirements.txt       
 └── README.md  
 
-📬 Contact
+#📬 Contact
+
 GitHub: kiranrathod2
+
 Email: kiranrathod2602@gmail.com
+
 LinkedIn: www.linkedin.com/in/kiran-rathod-605919367
 
 
