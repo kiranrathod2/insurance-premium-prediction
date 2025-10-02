@@ -37,7 +37,7 @@ The app processes these inputs, scales them, and predicts the premium amount.
 
 📬 Contact
 
-GitHub: kiranrathod2
+GitHub: [kiranrathod2](https://github.com/kiranrathod2)
 
 Email: kiranrathod2602@gmail.com
 
