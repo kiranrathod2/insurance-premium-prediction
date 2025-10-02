@@ -27,6 +27,7 @@ The app processes these inputs, scales them, and predicts the premium amount.
 ---
 
 📂 Project Structure
+
 ├── app.py                  
 ├── dt_model.pkl            
 ├── scaler.pkl             
