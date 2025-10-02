@@ -33,5 +33,11 @@ The app processes these inputs, scales them, and predicts the premium amount.
 │   └── index.html          
 ├── static/                 
 ├── requirements.txt       
-└── README.md             
+└── README.md  
+
+📬 Contact
+GitHub: kiranrathod2
+Email: kiranrathod2602@gmail.com
+LinkedIn: www.linkedin.com/in/kiran-rathod-605919367
+
 
