@@ -27,13 +27,13 @@ The app processes these inputs, scales them, and predicts the premium amount.
 ---
 
 📂 Project Structure
-├── app.py                  # Flask application
-├── dt_model.pkl            # Saved Decision Tree model
-├── scaler.pkl              # Scaler for preprocessing
-├── encoders.pkl            # Label encoders for categorical features
+├── app.py                  
+├── dt_model.pkl            
+├── scaler.pkl             
+├── encoders.pkl            
 ├── templates/
-│   └── index.html          # Frontend form
-├── static/                 # (Optional) CSS/JS files
-├── requirements.txt        # Dependencies
-└── README.md               # Project documentation
+│   └── index.html          
+├── static/                 
+├── requirements.txt       
+└── README.md             
 
