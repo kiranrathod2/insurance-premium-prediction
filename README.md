@@ -6,7 +6,7 @@ The app processes these inputs, scales them, and predicts the premium amount.
 
 ---
 
-# 📌 Project Overview
+**📌Project Overview**
 
 The goal of this project is to build a predictive model that estimates the insurance premium a person has to pay based on several features such as:
 
@@ -28,7 +28,7 @@ The goal of this project is to build a predictive model that estimates the insur
 
 By analyzing these features, the model learns hidden patterns and provides an estimated premium value.
 
-# ⚙️ Tech Stack
+**⚙️ Tech Stack**
 
 Python
 
@@ -40,7 +40,7 @@ Scikit-learn – Model building & evaluation
 
 Flask – Web application for deployment
 
-# 🚀 Workflow
+**🚀 Workflow**
 
 Data Collection & Cleaning – Process raw dataset, handle missing values, and encode categorical variables.
 
@@ -54,7 +54,7 @@ Model Evaluation – Compare models using metrics like MAE, RMSE, and R².
 
 Deployment – Deploy best model using Flask for real-time premium prediction.
 
-# 🌐 Web App Features
+**🌐 Web App Features**
 
 User-friendly form to input customer details.
 
@@ -62,41 +62,44 @@ Predicts insurance premium instantly.
 
 Displays prediction results clearly.
 
-# 📊 Example Use Case
+**📊 Example Use Case**
 
 👉 A 35-year-old male, smoker, with BMI 28 and 2 dependents can get a quick estimate of the premium he might have to pay.
 
-# 📂 Project Structure
+**📂 Project Structure**
+
 ├── static/              # CSS, JS, images
-├── templates/           # HTML templates (Flask)
+├── templates/           
+│   └── index.html       # Main HTML page (Flask template)
 ├── model.pkl            # Trained ML model
 ├── app.py               # Flask application
 ├── requirements.txt     # Required libraries
 └── README.md            # Project documentation
 
-# 🛠️ Installation & Usage
-# 1️⃣ Clone the Repository
+**🛠️ Installation & Usage**
+
+1️⃣ Clone the Repository
 git clone https://github.com/kiranrathod2/insurance-premium-prediction.git
 cd insurance-premium-prediction
 
-# 2️⃣ Create Virtual Environment (optional but recommended)
+2️⃣ Create Virtual Environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate   # For Linux/Mac
 venv\Scripts\activate      # For Windows
 
-# 3️⃣ Install Dependencies
+3️⃣ Install Dependencies
 pip install -r requirements.txt
 
-# 4️⃣ Run the Flask App
+4️⃣ Run the Flask App
 python app.py
 
-# 5️⃣ Open in Browser
+5️⃣ Open in Browser
 
 👉 http://127.0.0.1:5000/
 
 Enter user details in the form and get an instant insurance premium prediction.
 
-# 🔮 Future Improvements
+**🔮 Future Improvements**
 
 Add more advanced models (XGBoost, CatBoost).
 
@@ -106,11 +109,11 @@ Integrate with SQL/NoSQL databases for scalability.
 
 Add API support for mobile applications.
 
-# 📌 Conclusion
+**📌 Conclusion**
 
 This project demonstrates how Machine Learning can be applied in the insurance industry to predict health premiums efficiently, supporting data-driven decision-making and enhancing customer experience.
 
-# 📬 Contact
+**📬 Contact**
 
 GitHub: [kiranrathod2](https://github.com/kiranrathod2)
 
