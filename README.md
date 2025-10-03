@@ -69,11 +69,16 @@ Displays prediction results clearly.
 **📂 Project Structure**
 
 ├── static/              # CSS, JS, images
+
 ├── templates/           
 │   └── index.html       # Main HTML page (Flask template)
+
 ├── model.pkl            # Trained ML model
+
 ├── app.py               # Flask application
+
 ├── requirements.txt     # Required libraries
+
 └── README.md            # Project documentation
 
 **🛠️ Installation & Usage**
